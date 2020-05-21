@@ -1,0 +1,44 @@
+body {
+    color:white;
+    font-size: 15pt;
+    background-color:#42445A;
+    user-select: none;
+    margin:auto;
+    /*display: flex;*/
+    width:320px;
+}
+#allbuttons{
+  border:2px solid black;
+  text-align: center;
+  margin:auto;
+  margin-top:45px;
+  width:208px;
+  height:208px;
+  transform: rotate(45deg);
+}
+
+.btns{
+  width: 100px;
+  height: 100px;
+  user-select:none;
+  float:left;
+  border:2px solid black;
+  /*margin:auto;*/
+}
+#btn0{
+  background-color: grey;
+}
+#btn1 {
+  background-color: grey;
+}
+#btn2 {
+  background-color: grey;
+}
+#btn3 {
+  background-color: grey;
+}
+#tela{
+  margin-top: 15px;
+  width:320px;
+  height:240px;
+}
